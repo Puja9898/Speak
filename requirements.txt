@@ -1,0 +1,8 @@
+streamlit==1.30.0
+googletrans==4.0.0rc1
+SpeechRecognition==3.8.1
+pydub==0.25.1
+pillow==10.1.0
+sqlite3 ; python_version >= "3.0"
+psycopg2-binary==2.9.9  # optional if you switch to PostgreSQL
+numpy==1.26.5  # dependency for some audio processing
